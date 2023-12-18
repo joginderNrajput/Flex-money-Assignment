@@ -35,4 +35,4 @@ HTML, CSS, Javascript, MySQL, Php
 3. After payment, Login through email and password.
 4. View Details and Edit Batch timings in portal.
 
-
+![](https://i.postimg.cc/qq0rSFf9/image.png)
